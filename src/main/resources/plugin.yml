@@ -1,0 +1,8 @@
+name: Elytrahelper
+version: '${version}'
+main: bg.hushcraft.elytrahelper.Elytrahelper
+api-version: 1.19
+authors: [ kkatkat ]
+commands:
+  setpitch:
+    description: 'Sets the pitch to precisely -4.5 degrees'
